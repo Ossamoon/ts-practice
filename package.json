@@ -1,0 +1,24 @@
+{
+  "name": "ts-practice",
+  "version": "1.0.0",
+  "description": "『プロを目指す人のためのTypeScript入門』(ブルーベリー本)の学習記録",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ossamoon/ts-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ossamoon/ts-practice/issues"
+  },
+  "homepage": "https://github.com/Ossamoon/ts-practice#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.31",
+    "typescript": "^4.6.4"
+  }
+}
